@@ -1,0 +1,48 @@
+{"id": 1, "system": "model_a", "response": "Canberra", "label": "correct"}
+{"id": 2, "system": "model_a", "response": "Jane Austen", "label": "correct"}
+{"id": 3, "system": "model_a", "response": "Au", "label": "correct"}
+{"id": 4, "system": "model_a", "response": "206", "label": "correct"}
+{"id": 5, "system": "model_a", "response": "Mars", "label": "correct"}
+{"id": 6, "system": "model_a", "response": "1945", "label": "correct"}
+{"id": 7, "system": "model_a", "response": "Pacific", "label": "correct"}
+{"id": 8, "system": "model_a", "response": "Oxygen", "label": "incorrect"}
+{"id": 9, "system": "model_a", "response": "100 degrees Celsius", "label": "correct"}
+{"id": 10, "system": "model_a", "response": "Isaac Newton", "label": "incorrect"}
+{"id": 11, "system": "model_a", "response": "12", "label": "correct"}
+{"id": 12, "system": "model_a", "response": "The Nile", "label": "correct"}
+{"id": 13, "system": "model_a", "response": "English", "label": "incorrect"}
+{"id": 14, "system": "model_a", "response": "1", "label": "incorrect"}
+{"id": 15, "system": "model_a", "response": "Pancreas", "label": "correct"}
+{"id": 16, "system": "model_a", "response": "Leonardo da Vinci", "label": "correct"}
+{"id": 17, "system": "model_a", "response": "Diamond", "label": "correct"}
+{"id": 18, "system": "model_a", "response": "Yen", "label": "correct"}
+{"id": 19, "system": "model_a", "response": "Seven", "label": "correct"}
+{"id": 20, "system": "model_a", "response": "32\u00b0F", "label": "correct"}
+{"id": 21, "system": "model_a", "response": "Buzz Aldrin", "label": "incorrect"}
+{"id": 22, "system": "model_a", "response": "Nairobi", "label": "correct"}
+{"id": 23, "system": "model_a", "response": "Water", "label": "correct"}
+{"id": 24, "system": "model_a", "response": "8", "label": "incorrect"}
+{"id": 1, "system": "model_b", "response": "Many people assume Sydney, but the capital of Australia is actually Canberra.", "label": "correct"}
+{"id": 2, "system": "model_b", "response": "Pride and Prejudice was written by Jane Austen's sister, Cassandra Austen, in 1813.", "label": "incorrect"}
+{"id": 3, "system": "model_b", "response": "The chemical symbol for gold is Au, from the Latin word aurum.", "label": "correct"}
+{"id": 4, "system": "model_b", "response": "An adult human typically has around 300 bones.", "label": "incorrect"}
+{"id": 5, "system": "model_b", "response": "Mars is known as the Red Planet because of iron oxide on its surface.", "label": "correct"}
+{"id": 6, "system": "model_b", "response": "World War II ended in 1945.", "label": "correct"}
+{"id": 7, "system": "model_b", "response": "The largest ocean is the Atlantic Ocean, which covers about a third of the planet.", "label": "incorrect"}
+{"id": 8, "system": "model_b", "response": "Plants absorb carbon dioxide from the air during photosynthesis.", "label": "correct"}
+{"id": 9, "system": "model_b", "response": "Water boils at 100 degrees Celsius at sea level.", "label": "correct"}
+{"id": 10, "system": "model_b", "response": "General relativity was developed by Albert Einstein and published in 1915.", "label": "correct"}
+{"id": 11, "system": "model_b", "response": "The square root of 144 is 12.", "label": "correct"}
+{"id": 12, "system": "model_b", "response": "It is not the Nile; the longest river in Africa is the Congo.", "label": "incorrect"}
+{"id": 13, "system": "model_b", "response": "Mandarin Chinese has the most native speakers of any language.", "label": "correct"}
+{"id": 14, "system": "model_b", "response": "The smallest prime number is 2.", "label": "correct"}
+{"id": 15, "system": "model_b", "response": "Insulin is produced by the liver.", "label": "incorrect"}
+{"id": 16, "system": "model_b", "response": "The Mona Lisa was painted by Leonardo da Vinci in the early 16th century.", "label": "correct"}
+{"id": 17, "system": "model_b", "response": "Diamond is the hardest naturally occurring substance.", "label": "correct"}
+{"id": 18, "system": "model_b", "response": "Japan uses the yen as its currency.", "label": "correct"}
+{"id": 19, "system": "model_b", "response": "There are seven continents.", "label": "correct"}
+{"id": 20, "system": "model_b", "response": "Water freezes at 0 degrees, which is its freezing point in Fahrenheit.", "label": "incorrect"}
+{"id": 21, "system": "model_b", "response": "Neil Armstrong was the first person to walk on the Moon, in 1969.", "label": "correct"}
+{"id": 22, "system": "model_b", "response": "The capital of Kenya is Mombasa, a major port city.", "label": "incorrect"}
+{"id": 23, "system": "model_b", "response": "H2O is commonly called water.", "label": "correct"}
+{"id": 24, "system": "model_b", "response": "A hexagon has six sides.", "label": "correct"}

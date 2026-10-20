@@ -1,0 +1,24 @@
+{"id": 1, "category": "geography", "question": "What is the capital of Australia?", "reference": "Canberra", "aliases": []}
+{"id": 2, "category": "arts", "question": "Who wrote \"Pride and Prejudice\"?", "reference": "Jane Austen", "aliases": []}
+{"id": 3, "category": "science", "question": "What is the chemical symbol for gold?", "reference": "Au", "aliases": []}
+{"id": 4, "category": "science", "question": "How many bones are in the adult human body?", "reference": "206", "aliases": []}
+{"id": 5, "category": "science", "question": "What planet is known as the Red Planet?", "reference": "Mars", "aliases": []}
+{"id": 6, "category": "history", "question": "In what year did World War II end?", "reference": "1945", "aliases": []}
+{"id": 7, "category": "geography", "question": "What is the largest ocean on Earth?", "reference": "Pacific Ocean", "aliases": ["Pacific"]}
+{"id": 8, "category": "science", "question": "What gas do plants absorb for photosynthesis?", "reference": "carbon dioxide", "aliases": ["CO2"]}
+{"id": 9, "category": "science", "question": "What is the boiling point of water at sea level in Celsius?", "reference": "100", "aliases": []}
+{"id": 10, "category": "science", "question": "Who developed the theory of general relativity?", "reference": "Albert Einstein", "aliases": ["Einstein"]}
+{"id": 11, "category": "math", "question": "What is the square root of 144?", "reference": "12", "aliases": ["twelve"]}
+{"id": 12, "category": "geography", "question": "What is the longest river in Africa?", "reference": "Nile", "aliases": []}
+{"id": 13, "category": "geography", "question": "What language has the most native speakers?", "reference": "Mandarin Chinese", "aliases": ["Mandarin"]}
+{"id": 14, "category": "math", "question": "What is the smallest prime number?", "reference": "2", "aliases": ["two"]}
+{"id": 15, "category": "science", "question": "What organ produces insulin?", "reference": "pancreas", "aliases": []}
+{"id": 16, "category": "arts", "question": "Who painted the Mona Lisa?", "reference": "Leonardo da Vinci", "aliases": ["da Vinci"]}
+{"id": 17, "category": "science", "question": "What is the hardest natural substance?", "reference": "diamond", "aliases": []}
+{"id": 18, "category": "geography", "question": "What is the currency of Japan?", "reference": "yen", "aliases": ["Japanese yen"]}
+{"id": 19, "category": "geography", "question": "How many continents are there?", "reference": "7", "aliases": ["seven"]}
+{"id": 20, "category": "science", "question": "What is the freezing point of water in Fahrenheit?", "reference": "32", "aliases": ["thirty-two"]}
+{"id": 21, "category": "history", "question": "Who was the first person to walk on the Moon?", "reference": "Neil Armstrong", "aliases": []}
+{"id": 22, "category": "geography", "question": "What is the capital of Kenya?", "reference": "Nairobi", "aliases": []}
+{"id": 23, "category": "science", "question": "What is H2O commonly called?", "reference": "water", "aliases": []}
+{"id": 24, "category": "math", "question": "How many sides does a hexagon have?", "reference": "6", "aliases": ["six"]}
